@@ -1,0 +1,5 @@
+#warpper{width: 1000px;border: 2px solid red; margin: auto;}
+.row{width: 100%;padding: 10px;}
+input select{width: 2px solid green;}
+label{display: block;}
+div{font-style: normal;}
